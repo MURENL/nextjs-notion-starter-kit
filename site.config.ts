@@ -9,12 +9,12 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Muren's Blog',
+  name: 'Muren Blog',
   domain: 'https://murenlee.notion.site/Muren-s-Blog-56688c4e39144a94bfa6be91ff9ca60a',
   author: 'Muren',
 
   // open graph metadata (optional)
-  description: '生活 阅读 沉思',
+  description: '生活，阅读，沉思',
 
   // social usernames (optional)
   // mastodon: '#', // optional mastodon profile URL, provides link verification
