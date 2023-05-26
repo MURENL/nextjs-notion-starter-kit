@@ -4,7 +4,7 @@ const withBundleAnalyzer = require('@next/bundle-analyzer')({
 })
 
 module.exports = withBundleAnalyzer({
-  staticPageGenerationTimeout: 1000,
+  staticPageGenerationTimeout: 500,
   images: {
     domains: [
       'www.notion.so',
