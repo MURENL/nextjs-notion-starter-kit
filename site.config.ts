@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Muren Blog',
-  domain: 'muren.cool',
+  domain: 'https://murenlee.notion.site/Muren-s-Blog-56688c4e39144a94bfa6be91ff9ca60a',
   author: 'Muren',
 
   // open graph metadata (optional)
